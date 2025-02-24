@@ -12,7 +12,7 @@ email: lialos@snu.ac.kr
 # email_title: Email (Email title override)
 phone: +82-10-2670-1078
 # phone_title: Phone (Phone title override)
-website: https://minju-kim1.github.io/CV/
+website: https://github.com/Minju-Kim1
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -42,28 +42,35 @@ orcid_username: 0009-0002-1957-7611
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: D:\git_data\MINJU KIM.jpg
+about_profile_image: (D:/git_data/MINJU KIM.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+ 
+  **With four years of experience as an operating room nurse, driven by passion and responsibility, I am now embarking on a new challenge with boldness and determination.**
+  I have begun my Master's in <mark>Nursing Informatics</mark>(Community and Nursing Care System) at Seoul National University, where I am expanding my expertise at the intersection of nursing and technology.
+  As a Research Assistant at the <mark>Human-Centered Artificial Intelligence Lab (HCAIL)</mark>, I aim to integrate human-computer interaction into nursing practice, leveraging my clinical experience to develop tools that enhance nursing professionalism and address healthcare disparities.
+  I look forward to filling the pages ahead with impactful projects and research. **Would you like to be part of this journey?**
 
 content:
   - title: Education
     layout: list
     content:
       - layout: top-right
+        title: Seoul National University
+        sub_title: Master of Nursing Community and Nursing Care System
+        caption: 2025 - present
+        #quote: >
+          #Short institution or course description (optional)
+        #description: | # this will include n
+          
+
+      - layout: top-right
         title: University of Gachon
         sub_title: BS in Nursing
         caption: 2014 - 2018
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        #quote: >
+          #Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+          #Description of qualification
 
   - title: Experience
     layout: list
@@ -103,31 +110,52 @@ content:
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+    #content:
+    #  - layout: left
+    #    border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+    #    title: Project name
+    #    link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+    #    link_text: Link Text
+    #    additional_links:
+    #      - title:  Github page for project (eg. sproogen/modern-resume-theme)
+    #        icon: fab fa-github
+    #        url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+    #      - title:  Github page for project (eg. sproogen/modern-resume-theme)
+    #        icon: fab fa-github
+    #        url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+    #    quote: >
+    #      Short overview of the project (optional)
+    #    description: | # this will include new lines to allow paragraphs
+    #      Description about the work on/with the project
+
+
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    #content:
+    #  - layout: left
+    #    border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+    #    title: Project name
+    #    link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+    #    link_text: Link Text
+    #    additional_links:
+    #      - title:  Github page for project (eg. sproogen/modern-resume-theme)
+    #        icon: fab fa-github
+    #        url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+    #      - title:  Github page for project (eg. sproogen/modern-resume-theme)
+    #        icon: fab fa-github
+    #        url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+    #    quote: >
+    #      Short overview of the project (optional)
+    #    description: | # this will include new lines to allow paragraphs
+    #      Description about the work on/with the project
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+     
+      [markdown](D:/git_data/MINJU KIM_CV.pdf)
 
 # Footer
 footer_show_references: true
