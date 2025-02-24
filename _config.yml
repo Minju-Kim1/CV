@@ -1,5 +1,5 @@
 # Site
-repository: "https://minju-kim1.github.io/CV/"
+repository: "minju-kim1/CV"
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -42,7 +42,7 @@ orcid_username: 0009-0002-1957-7611
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: (D:/git_data/MINJU KIM.jpg)
+about_profile_image: /images/MINJU_KIM.jpg
 about_content: | # this will include new lines to allow paragraphs
  
   **With four years of experience as an operating room nurse, driven by passion and responsibility, I am now embarking on a new challenge with boldness and determination.**
@@ -155,7 +155,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
      
-      [markdown](D:/git_data/MINJU KIM_CV.pdf)
+      [Resume](D:/git_data/MINJU KIM_CV.pdf)
 
 # Footer
 footer_show_references: true
