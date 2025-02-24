@@ -1,43 +1,35 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: https://minju-kim1.github.io/CV/
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Minju Kim
+title: Registered Nurse
+email: lialos@snu.ac.kr
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: +82-10-2670-1078
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://minju-kim1.github.io/CV/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+twitter_username: LialosK
+github_username:  Minju-Kim1
+linkedin_username: minjukim13380
+orcid_username: 0009-0002-1957-7611
+#googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+# -title: Link name
+  #icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  #url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,7 +42,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: D:\git_data\MINJU KIM.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -61,6 +53,54 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: University of Gachon
+        sub_title: BS in Nursing
+        caption: 2014 - 2018
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: University of Gachon
+        sub_title: Teaching Assistant
+        caption: 2023 - 2024
+        #link: Link to company (optional)
+        #quote: >
+          #Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          * Performed administrative tasks related to academic operations, including supporting nursing college lectures, practical sessions, and other related activities
+          * Assisted in fundamental nursing lab sessions, providing guidance and support to students during practical training
+      - layout: right
+        title: Yongin Severance Hospital
+        sub_title: Orthopedic Surgery PA Nurse
+        caption: 2022 - 2023
+        #link: Link to company (optional)
+        #quote: >
+          #Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          * Assisted in preparing surgery schedules and planning preoperative care for surgical patients 
+          * Collaborated with physicians and other health care providers to develop a care plan for the patient during surgery
+      - layout: right
+        title: Seoul National University Bundang Hospital
+        sub_title: Operating Room Nurse
+        caption: 2018 - 2021
+        #link: Link to company (optional)
+        #quote: >
+          #Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          * Collaborated with the surgical team to ensure the highest safety and surgical standards for the patient  
+          * Collaborated with physicians and other health care providers to develop a care plan for the patient during surgery
+          * Neurology, Urology, General, Gynecology Surgery
+
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -81,29 +121,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
