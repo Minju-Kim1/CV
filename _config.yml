@@ -1,5 +1,5 @@
 # Site
-repository: https://minju-kim1.github.io/CV/
+repository: "https://minju-kim1.github.io/CV/"
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -12,7 +12,7 @@ email: lialos@snu.ac.kr
 # email_title: Email (Email title override)
 phone: +82-10-2670-1078
 # phone_title: Phone (Phone title override)
-website: https://github.com/Minju-Kim1
+website: "https://github.com/Minju-Kim1"
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -42,7 +42,7 @@ orcid_username: 0009-0002-1957-7611
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: (D:/git_data/MINJU KIM.jpg)
+about_profile_image: "D:/git_data/MINJU KIM.jpg"
 about_content: | # this will include new lines to allow paragraphs
  
   **With four years of experience as an operating room nurse, driven by passion and responsibility, I am now embarking on a new challenge with boldness and determination.**
