@@ -109,7 +109,7 @@ content:
 
 
   - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -138,7 +138,7 @@ content:
 
 
   - title: Honors & Awards # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
