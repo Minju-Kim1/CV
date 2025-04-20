@@ -54,7 +54,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Seoul National University
         sub_title: Master of Nursing Community and Nursing Care System
         caption: 2025 - present
@@ -63,7 +63,7 @@ content:
         #description: | # this will include n
           
 
-      - layout: top-right
+      - layout: top-left
         title: University of Gachon
         sub_title: BS in Nursing
         caption: 2014 - 2018
@@ -75,7 +75,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: University of Gachon
         sub_title: Teaching Assistant
         caption: 2023 - 2024
@@ -85,7 +85,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           * Performed administrative tasks related to academic operations, including supporting nursing college lectures, practical sessions, and other related activities
           * Assisted in fundamental nursing lab sessions, providing guidance and support to students during practical training
-      - layout: right
+      - layout: left
         title: Yongin Severance Hospital
         sub_title: Orthopedic Surgery PA Nurse
         caption: 2022 - 2023
@@ -95,7 +95,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           * Assisted in preparing surgery schedules and planning preoperative care for surgical patients 
           * Collaborated with physicians and other health care providers to develop a care plan for the patient during surgery
-      - layout: right
+      - layout: left
         title: Seoul National University Bundang Hospital
         sub_title: Operating Room Nurse
         caption: 2018 - 2021
