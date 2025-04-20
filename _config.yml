@@ -173,7 +173,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
      
-[Resume]()
+[Download Resume](https://github.com/Minju-Kim1/CV/blob/main/CV_MINJU_KIM.pdf)
+
 
 # Footer
 # footer_show_references: true
