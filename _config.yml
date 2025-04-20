@@ -173,10 +173,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
      
-[Resume](D:/git_data/MINJU KIM_CV.pdf)
+[Resume]()
 
 # Footer
-footer_show_references: true
+# footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
