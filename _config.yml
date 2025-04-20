@@ -56,7 +56,7 @@ content:
     content:
       - layout: top-left
         title: Seoul National University
-        sub_title: Master of Nursing Community and Nursing Care System
+        sub_title: MS in Nursing Informatics, Community and Nursing Care System
         caption: 2025 - present
         #quote: >
           #Short institution or course description (optional)
@@ -114,7 +114,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Development of a large-scale multimodal data framework for supporting periodontal disease care through improving nutrition and microbiome environment
+        title: "Development of a large-scale multimodal data framework for supporting periodontal disease care through improving nutrition and microbiome environment"
         sub_title: Seoul National University
         caption: 2025 - Present
     #    link_text: Link Text
@@ -130,9 +130,9 @@ content:
     #    description: | # this will include new lines to allow paragraphs
     #      Description about the work on/with the project
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Student Activities for Eco-friendliness and Carbon Neutrality
+        title: "Student Activities for Eco-friendliness and Carbon Neutrality"
         sub_title: Seoul National University
         caption: 2025 - Present
 
@@ -141,9 +141,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Center for World-leading Human-care Nurse Leaders for the Future by Brain Korea 21 (BK 21) four project Scholarship
+        title: "Center for World-leading Human-care Nurse Leaders for the Future by Brain Korea 21 (BK 21) four project Scholarship"
         sub_title: College of Nursing, Seoul National University
         caption: 2025 - Present
 
@@ -169,8 +169,8 @@ content:
     #    description: | # this will include new lines to allow paragraphs
     #      Description about the work on/with the project
 
-  - title: A Little More About Me
-    layout: text
+  # - title: A Little More About Me
+  #  layout: text
     content: | # this will include new lines to allow paragraphs
      
       [Download Resume](https://github.com/Minju-Kim1/CV/blob/main/CV_MINJU_KIM.pdf)
