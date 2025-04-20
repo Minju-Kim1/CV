@@ -145,8 +145,8 @@ content:
           * BK21 Four Project Scholarship, Center for World-leading Human-care Nurse Leaders for the Future
 
 
-  - title: Publications # Title for the section
-    layout: list # Type of content section (list/text)
+  #- title: Publications # Title for the section
+    #layout: list # Type of content section (list/text)
     #content:
     #  - layout: left
     #    border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -166,11 +166,10 @@ content:
     #    description: | # this will include new lines to allow paragraphs
     #      Description about the work on/with the project
 
-  # - title: A Little More About Me
-  #  layout: text
+  #- title: A Little More About Me
+    #layout: text
     content: | # this will include new lines to allow paragraphs
-     
-      [Download Resume](https://github.com/Minju-Kim1/CV/blob/main/CV_MINJU_KIM.pdf)
+    [Download Resume](RESUME_MINJU_KIM.pdf)
 
 
 # Footer
