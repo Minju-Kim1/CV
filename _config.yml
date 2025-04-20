@@ -56,21 +56,21 @@ content:
     content:
       - layout: top-left
         title: Seoul National University
-        sub_title: MS in Nursing Informatics, Community and Nursing Care System
+        #sub_title: 
         caption: 2025 - present
         #quote: >
           #Short institution or course description (optional)
-        #description: | # this will include n
-          
+        description: | # this will include n
+          * Master of Science in Nursing Informatics (Community and Nursing Care System)
 
       - layout: top-left
         title: University of Gachon
-        sub_title: BS in Nursing
+        #sub_title: 
         caption: 2014 - 2018
         #quote: >
           #Short institution or course description (optional)
-        #description: | # this will include new lines to allow paragraphs
-          #Description of qualification
+        description: | # this will include new lines to allow paragraphs
+          * Bachelor of Science in Nursing
 
   - title: Experience
     layout: list
@@ -112,7 +112,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         #title: 
         sub_title: Seoul National University
