@@ -169,7 +169,7 @@ content:
   #- title: A Little More About Me
     #layout: text
     content: | # this will include new lines to allow paragraphs
-    [Download Resume](RESUME_MINJU_KIM.pdf)
+      [Download Resume](RESUME_MINJU_KIM.pdf)
 
 
 # Footer
